@@ -76,6 +76,10 @@ ${body.trim()}
 `;
 }
 
+// Section cards get extra room above the heading so sections breathe on the page.
+const SECTION_GAP = 28;
+const section = (height, body) => svg(W, height + SECTION_GAP, `<g transform="translate(0 ${SECTION_GAP})">${body}</g>`);
+
 const heading = (t, label) => T(label, { font: 'display-700', size: 32, x: 2, y: 38, ls: -0.8, fill: t.text });
 
 /* ---------- Wallpaper and Liquid Glass ---------- */
@@ -231,7 +235,7 @@ function expertise(t, theme) {
   const b = { x: 0, y: a.y + a.h + gap, w: half, h: 236 };
   const c = { x: half + gap, y: b.y, w: half, h: 236 };
 
-  return svg(W, b.y + b.h + 2, `
+  return section(b.y + b.h + 2, `
 <defs><filter id="tile-shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="${t.tileShadow}"/></filter></defs>
 ${heading(t, 'Expertise')}
 ${tile(a.x, a.y, a.w, a.h)}
@@ -258,7 +262,7 @@ ${T(name, { font: 'text-500', size: 17, x: x + 34, y: yc + 6, fill: t.text })}`;
     }).join('\n');
     return `${sep}${T(label, { font: 'text-500', size: 15, x: 32, y: yc + 5, fill: t.muted })}\n${cells}`;
   }).join('\n');
-  return svg(W, top + h + 2, `${heading(t, 'Tech specs')}
+  return section(top + h + 2, `${heading(t, 'Tech specs')}
 <rect x="0" y="${top}" width="${W}" height="${h}" rx="28" fill="${t.card}"/>
 ${rows}`);
 }
@@ -337,7 +341,7 @@ ${T(label, { font: 'text-500', size: 14, x, y: top + 100, fill: t.muted })}`;
   const avgY = r(base - barH(avg));
   const avgLabel = `avg ${Math.round(avg)}/wk`;
 
-  return svg(W, top + h + 2, `
+  return section(top + h + 2, `
 ${heading(t, 'Activity')}
 ${T(`Last 12 months · Updated ${updated}`, { font: 'text-500', size: 14, x: W - 2, y: 38, anchor: 'end', fill: t.faint })}
 <rect x="0" y="${top}" width="${W}" height="${h}" rx="28" fill="${t.card}"/>
