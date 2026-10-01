@@ -18,6 +18,8 @@
   <img src="assets/activity-light.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, active days and streaks.">
 </picture>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-carrascosa-nombela-ab7b72151/">
     <picture>
