@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="292" viewBox="0 0 840 292" fill="none">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+</style>
+<text x="2" y="62" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#F5F5F7">Right now.</text>
+<rect x="0" y="84" width="269.33" height="206" rx="22" fill="#161B22"/>
+<circle cx="48" cy="132" r="22" fill="#132A45"/>
+<g transform="translate(36 120)"><g stroke="#2997FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="6.5" y="2.5" width="11" height="19" rx="2.6"/><path d="M10.5 18.2h3"/></g></g>
+<text x="26" y="188" font-size="19" font-weight="700" letter-spacing="-0.2" fill="#F5F5F7">Apps &amp; web</text>
+<text x="26" y="216" font-size="15" fill="#A1A1A6">Cross-platform apps with</text>
+<text x="26" y="238" font-size="15" fill="#A1A1A6">Flutter, and web products</text>
+<text x="26" y="260" font-size="15" fill="#A1A1A6">with React and Next.js.</text>
+<rect x="285.33" y="84" width="269.33" height="206" rx="22" fill="#161B22"/>
+<circle cx="333.33" cy="132" r="22" fill="#132A45"/>
+<g transform="translate(321.33 120)"><g fill="#2997FF"><path d="M10 3.5c.7 4.6 2 5.9 6.5 6.5-4.5.6-5.8 1.9-6.5 6.5-.7-4.6-2-5.9-6.5-6.5 4.5-.6 5.8-1.9 6.5-6.5z"/><path d="M18 14.5c.3 2 .9 2.6 2.8 2.9-1.9.3-2.5.9-2.8 2.9-.3-2-.9-2.6-2.8-2.9 1.9-.3 2.5-.9 2.8-2.9z"/></g></g>
+<text x="311.33" y="188" font-size="19" font-weight="700" letter-spacing="-0.2" fill="#F5F5F7">Autonomous AI</text>
+<text x="311.33" y="216" font-size="15" fill="#A1A1A6">AI systems and agents that</text>
+<text x="311.33" y="238" font-size="15" fill="#A1A1A6">take on real work and run</text>
+<text x="311.33" y="260" font-size="15" fill="#A1A1A6">on their own.</text>
+<rect x="570.67" y="84" width="269.33" height="206" rx="22" fill="#161B22"/>
+<circle cx="618.67" cy="132" r="22" fill="#132A45"/>
+<g transform="translate(606.67 120)"><g stroke="#2997FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 6.5h10M10 12h10M10 17.5h10"/><path d="M3.8 6.6l1.3 1.3 2.4-2.6M3.8 12.1l1.3 1.3 2.4-2.6M3.8 17.6l1.3 1.3 2.4-2.6"/></g></g>
+<text x="596.67" y="188" font-size="19" font-weight="700" letter-spacing="-0.2" fill="#F5F5F7">Tech leadership</text>
+<text x="596.67" y="216" font-size="15" fill="#A1A1A6">Planning, task management</text>
+<text x="596.67" y="238" font-size="15" fill="#A1A1A6">and CTO duties that keep</text>
+<text x="596.67" y="260" font-size="15" fill="#A1A1A6">projects on track.</text>
+</svg>

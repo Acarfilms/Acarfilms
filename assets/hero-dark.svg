@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="236" viewBox="0 0 840 236" fill="none">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+</style>
+<defs>
+  <linearGradient id="spectrum" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#0A84FF"/><stop offset="0.25" stop-color="#5E5CE6"/><stop offset="0.5" stop-color="#BF5AF2"/><stop offset="0.75" stop-color="#FF375F"/><stop offset="1" stop-color="#FF9F0A"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="840 0" dur="14s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<text x="420" y="44" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="2.4" fill="#2997FF">FULL-STACK DEVELOPER</text>
+<text x="420" y="114" text-anchor="middle" font-size="64" font-weight="700" letter-spacing="-2" fill="#F5F5F7">Angel Carrascosa.</text>
+<text x="420" y="164" text-anchor="middle" font-size="22" font-weight="500" fill="#A1A1A6">Mobile apps, web products and autonomous AI systems.</text>
+<text x="420" y="200" text-anchor="middle" font-size="22" font-weight="600" fill="url(#spectrum)">Thoughtfully designed. Built to ship.</text>
+</svg>
