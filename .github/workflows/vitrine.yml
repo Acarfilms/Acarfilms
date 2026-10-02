@@ -1,0 +1,20 @@
+name: Vitrine
+
+on:
+  push:
+    paths: [vitrine.yml]
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: vitrine
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: Acarfilms/vitrine@v1
