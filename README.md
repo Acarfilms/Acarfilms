@@ -18,4 +18,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-carrascosa-nombela-ab7b72151/"><img src="vitrine/link-linkedin.svg" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/acarfilms19/"><img src="vitrine/link-instagram.svg" alt="Instagram"></a>
+  <a href="mailto:acarfilms@protonmail.com"><img src="vitrine/link-email.svg" alt="Email"></a>
 </p>
