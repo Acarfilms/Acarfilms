@@ -5,6 +5,13 @@
   <img src="vitrine/expertise-light.svg" width="100%" alt="Expertise. Apps &amp; Web: Native feel. Web speed. Autonomous AI: Work that runs itself. Leadership: From roadmap to release.">
 </picture>
 
+<a href="https://github.com/Acarfilms/vitrine">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="vitrine/featured-dark.svg">
+  <img src="vitrine/featured-light.svg" width="100%" alt="Featured: Acarfilms/vitrine.">
+</picture>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="vitrine/specs-dark.svg">
   <img src="vitrine/specs-light.svg" width="100%" alt="Tech specs. Mobile: Flutter, Dart, React Native. Web: React, Next.js, TypeScript. Backend &amp; data: Firebase, Supabase, MongoDB. DevOps: Docker, Git, GitHub. Planning: Notion, Jira.">
