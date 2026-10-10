@@ -13,7 +13,7 @@
 <text class="text-500" x="36" y="164" font-size="14" fill="#6E6E73">Contributions</text>
 <text class="display-700" x="228" y="136" font-size="40" letter-spacing="-1.2" fill="#1D1D1F">143</text>
 <text class="text-500" x="228" y="164" font-size="14" fill="#6E6E73">Active days</text>
-<text class="display-700" x="420" y="136" font-size="40" letter-spacing="-1.2" fill="#1D1D1F">4<tspan dx="5" class="text-500" font-size="17" letter-spacing="0" fill="#6E6E73">days</tspan></text>
+<text class="display-700" x="420" y="136" font-size="40" letter-spacing="-1.2" fill="#1D1D1F">0<tspan dx="5" class="text-500" font-size="17" letter-spacing="0" fill="#6E6E73">days</tspan></text>
 <text class="text-500" x="420" y="164" font-size="14" fill="#6E6E73">Current streak</text>
 <text class="display-700" x="612" y="136" font-size="40" letter-spacing="-1.2" fill="#1D1D1F">6<tspan dx="5" class="text-500" font-size="17" letter-spacing="0" fill="#6E6E73">days</tspan></text>
 <text class="text-500" x="612" y="164" font-size="14" fill="#6E6E73">Longest streak</text>
