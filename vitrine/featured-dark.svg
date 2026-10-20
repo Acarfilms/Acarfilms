@@ -20,6 +20,6 @@
 <g transform="translate(168.59 226) scale(0.83)"><g stroke="#A1A1A6" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3.8 2.5 5.1 5.6.8-4.05 3.95.95 5.6L12 16.6l-5 2.65.95-5.6L3.9 9.7l5.6-.8z"/></g></g>
 <text class="text-500" x="194.59" y="241" font-size="15" fill="#A1A1A6">3</text>
 <g transform="translate(234 226) scale(0.83)"><g stroke="#A1A1A6" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="6.5" cy="5.5" r="2"/><circle cx="17.5" cy="5.5" r="2"/><circle cx="12" cy="18.5" r="2"/><path d="M6.5 7.5v1.2c0 1.5 1.2 2.8 2.8 2.8h5.4c1.5 0 2.8-1.2 2.8-2.8V7.5M12 11.5v5"/></g></g>
-<text class="text-500" x="260" y="241" font-size="15" fill="#A1A1A6">2</text>
+<text class="text-500" x="260" y="241" font-size="15" fill="#A1A1A6">1</text>
 </g>
 </svg>
