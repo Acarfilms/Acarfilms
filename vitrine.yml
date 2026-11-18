@@ -8,7 +8,7 @@ hero:
   widgets:
     - icon: location
       label: Based in
-      value: Toledo, Spain
+      value: Madrid
     - icon: briefcase
       label: Leading tech at
       value: IABeauty
